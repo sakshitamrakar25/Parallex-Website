@@ -1,6 +1,3 @@
-Certainly! Here's a consolidated README.md file with all the code included:
-
-```markdown
 # Parallax Website
 
 This is a simple parallax website created using only HTML and CSS.
@@ -28,7 +25,7 @@ Check out the live demo: [Parallax Website](https://parallex-website.static.doma
 1. Clone the repository: 
 
 ```bash
-git clone 
+git clone:https://github.com/sakshitamrakar25/Parallex-Website.git
 ```
 
 2. Open `index.html` in your web browser.
